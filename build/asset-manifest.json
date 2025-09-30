@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Umanandhini2004/Hospital-Appointment-form.git/static/css/main.e6c13ad2.css",
+    "main.js": "/Umanandhini2004/Hospital-Appointment-form.git/static/js/main.c57d770d.js",
+    "static/js/453.5f2b617a.chunk.js": "/Umanandhini2004/Hospital-Appointment-form.git/static/js/453.5f2b617a.chunk.js",
+    "index.html": "/Umanandhini2004/Hospital-Appointment-form.git/index.html",
+    "main.e6c13ad2.css.map": "/Umanandhini2004/Hospital-Appointment-form.git/static/css/main.e6c13ad2.css.map",
+    "main.c57d770d.js.map": "/Umanandhini2004/Hospital-Appointment-form.git/static/js/main.c57d770d.js.map",
+    "453.5f2b617a.chunk.js.map": "/Umanandhini2004/Hospital-Appointment-form.git/static/js/453.5f2b617a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.c57d770d.js"
+  ]
+}
